@@ -11,4 +11,6 @@ def devide(s1,s2):
     return s1/s2
 # 왜 값이 안들어갈까?
 
+def zero(s1,s2):
+    return s1
 
