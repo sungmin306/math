@@ -10,5 +10,3 @@ def multi(s1,s2):
 def zero(s1,s2):
     return s1
 
-def square(a):
-    return a*a
