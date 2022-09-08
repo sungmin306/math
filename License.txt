@@ -1,1 +1,4 @@
 #기본 라이센스(유료)
+-Enterprise use : 500 $ per month
+# per month 10$
+
